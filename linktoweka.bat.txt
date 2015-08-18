@@ -1,0 +1,2 @@
+C:\Program Files\Weka-3-6\RunWeka.bat
+java -classpath "%CLASSPATH%;weka.jar;libsvm.jar" weka.gui.GUIChooser
